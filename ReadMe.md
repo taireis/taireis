@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Dev Full Stack cursando Sistemas de Informação
+Estudante de Dev Back-End cursando Sistemas de Informação
 
 
 ## 🌐 Socials:
